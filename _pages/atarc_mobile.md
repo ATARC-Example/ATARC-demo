@@ -3,7 +3,7 @@ layout: page
 title:  "ATARC Home"
 ---
 
-Who is ATARC?
+Who is ATARC Dog?
 
 ATARC is the Advanced Technology Academic Research Center. They are a 501c3 non-profit that provides a collaborative service for federal government, academia, and industry. They introduce innovative technologies and ideas to the government and industry.
 
@@ -20,3 +20,5 @@ What is ATARC’s relationship with the government?
 Not owned by the government, contributes technology to the government with the help of key government leaders in its creation (sort of a hands on sponsor).
 
 Liz was here
+
+And Carlton
