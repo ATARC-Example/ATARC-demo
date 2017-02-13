@@ -17,7 +17,7 @@ subtitle: ATARC demo utilizing Jekyll and 18F guides Edit
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/ATARC-demo'
+baseurl: /ATARC-demo
 
 # Author/Organization info to be displayed in the templates
 author:
