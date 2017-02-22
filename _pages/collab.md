@@ -3,9 +3,20 @@ layout: page
 title: Collaboration Space
 ---
 
-Add more info to me!
+# Adding New Pages
 
-Want to make a new page?
-<p><a href="https://github.com/ATARC-Example/ATARC-demo/new/master/_pages">New page</a></p>
+Before being able to add a new page to an ATARC working group, please complete the following checklist:
+-- I am a member of the ATARC-Example github organization
+-- I am familiar with Jekyll headers
+-- My content is important enough to demand an entirely new page
 
-all your base are belong to us
+## Becoming a member of a ATARC-Example
+
+## Using Jekyll Headers
+
+## Collaboration vs Contribution
+This doesn't make sense?
+
+## Ready to get started?
+Make a new page! <button><a href="https://github.com/ATARC-Example/ATARC-demo/new/master/_pages">New Page</a></button>
+
