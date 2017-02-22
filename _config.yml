@@ -7,10 +7,13 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  working_groups:
+    output: true
+    permalink: /:path
 
 # Title
 name: ATARC-Demo
-subtitle: ATARC demo utilizing Jekyll and 18F guides Edit
+subtitle: ATARC demo utilizing Jekyll and 18F guides
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
@@ -34,7 +37,13 @@ navigation:
 - text: ATARC Home
   url: ./
   internal: true
-  
+- text: Mobile Working Group
+  url: ./mobile
+  internal: true
+- text: Big Data Working Group
+  url: ./bigdata
+  internal: true
+
 
 # Repo list
 # List repos that you would like to appear on the homepage here
