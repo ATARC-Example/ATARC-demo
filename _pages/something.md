@@ -1,3 +1,7 @@
+---
+layout: page
+title: my page
+---
 # foo
 
 ## bar
