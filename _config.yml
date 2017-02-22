@@ -7,9 +7,6 @@ collections:
   pages:
     output: true
     permalink: /:path/
-  working_groups:
-    output: true
-    permalink: /:path
 
 # Title
 name: ATARC-Demo
@@ -37,9 +34,16 @@ navigation:
 - text: ATARC Home
   url: ./
   internal: true
+- text: Mobile Working Group
+  url: ./mobile
+  internal: true
+- text: Big Data Working Group
+  url: ./bigdata
+  internal: true
 - text: Product-A
   url: http://atarc-example.github.io/Product-A/
   internal: false
+
 
 
 # Repo list
