@@ -40,9 +40,9 @@ navigation:
 - text: Big Data Working Group
   url: ./bigdata
   internal: true
-- text: Product-A
-  url: http://atarc-example.github.io/Product-A/
-  internal: false
+- text: Completed Products
+  url: ./completed_products
+  internal: true
 
 
 
