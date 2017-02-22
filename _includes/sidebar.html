@@ -10,6 +10,9 @@
           <li><a href="{{ link.url }}">{{ link.text }}</a></li>
         {% endif %}
       {% endfor %}
+      {% for page in site.pages %}
+        <li><a href="{{ site.baseurl }}/{{ page.url }}">{{ page.title }}</a></li>
+      {% endfor %}
     </ul>
   </nav>
 </aside>

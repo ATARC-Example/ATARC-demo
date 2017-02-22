@@ -37,20 +37,9 @@ navigation:
 - text: ATARC Home
   url: ./
   internal: true
-- text: Mobile Working Group
-  url: ./mobile
-  internal: true
-- text: Big Data Working Group
-  url: ./bigdata
-  internal: true
 - text: Product-A
   url: http://atarc-example.github.io/Product-A/
-- text: Product-B
-  url: ./Product-B
-  internal: true
-- text: Product-C
-  url: ./Product-C
-  internal: true
+  internal: false
 
 
 # Repo list

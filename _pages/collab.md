@@ -30,4 +30,3 @@ This doesn't make sense?
 
 ## Ready to get started?
 Make a new page! <a href="https://github.com/ATARC-Example/ATARC-demo/new/master/_pages">New Page</a>
-
