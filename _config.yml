@@ -22,7 +22,7 @@ baseurl: /ATARC-demo
 # Author/Organization info to be displayed in the templates
 author:
   name: Collin McRae
-  url: http://github.com/collinmcrae/ATARC-Demo
+  url: http://github.com/ATARC-Example/ATARC-Demo
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl:
@@ -34,6 +34,7 @@ navigation:
 - text: ATARC Home
   url: ./
   internal: true
+  
 
 # Repo list
 # List repos that you would like to appear on the homepage here
