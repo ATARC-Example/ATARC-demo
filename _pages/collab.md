@@ -11,16 +11,19 @@ Before being able to add a new page to an ATARC working group, please complete t
 * My content is important enough to demand an entirely new page
 
 ## Becoming a member of the ATARC-Example Github Organization
+Currently, an administrator of ATARC-Example must manually invite users in order to join. If you would like to collaborate, please contact your task-lead to be added to the group.
 
 ## Using Jekyll Headers
-Jekyll using YAML Front Matter to help render each page. It is required by jekyll that every post begins with
-
+Jekyll using YAML Front Matter to help render each page. It is required by jekyll that every post begins with:
 {% highlight markdown %}
 ---
 layout: page
 title: my title
 ---
 {% endhighlight %}
+
+This snippet indicates the new page you are creating uses the 'page' template, and has the title 'my title'.
+New templates can be created for pages that serve different purposes, but for right now just use the 'page' template.
 
 ## Collaboration vs Contribution
 This doesn't make sense?
