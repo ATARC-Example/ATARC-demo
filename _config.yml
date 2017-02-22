@@ -31,11 +31,8 @@ logoalt:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Home
-  url: ./
-  internal: true
 - text: ATARC Home
-  url: atarc_mobile/
+  url: ./
   internal: true
 
 # Repo list
