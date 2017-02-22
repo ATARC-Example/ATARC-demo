@@ -4,7 +4,7 @@ ATARC is the Advanced Technology Academic Research Center. They are a 501c3 non-
 
 ## What is a working group and what is its function?
 
-ATARC sets up working groups among professionals from academia, industry, and the federal government. Each group is shared by an “industry thought leader”. Basically a collaborative space for experts on specific topics to come together and better academia, industry, and the fed. Each working group is broken up into “subject” teams
+ATARC sets up working groups among professionals from academia, industry, and the federal government. Each group is chaired by an “industry thought leader”. Basically a collaborative space for experts on specific topics to come together and better academia, industry, and the fed. Each working group is broken up into “subject” teams
 
 ## How are products created at ATARC?
 
