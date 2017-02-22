@@ -11,10 +11,8 @@ The ATARC Mobile Working Group is a technical working group of government, acade
 Collaborative space dedicated to work stemming from the Mobile Working Group.
 
 ## Pages
-<ul>
-  <li><a href="http://atarc-example.github.io/Product-A/">Product A</a></li>
-  <li><a href="{{site.baseurl}}/product-b/">Product B</a></li>
-  <li><a href="{{site.baseurl}}/product-c/">Product C</a></li>
-</ul>
+  * <a href="http://atarc-example.github.io/Product-A/">Product A</a>
+  * <a href="{{site.baseurl}}/product-b/">Product B</a>
+  * <a href="{{site.baseurl}}/product-c/">Product C</a>
 
 note: All info on this page was taken from <a href="http://www.atarc.org/working-groups/mobile/">here</a>
