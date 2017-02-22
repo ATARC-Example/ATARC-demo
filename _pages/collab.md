@@ -10,9 +10,17 @@ Before being able to add a new page to an ATARC working group, please complete t
 * I am familiar with Jekyll headers
 * My content is important enough to demand an entirely new page
 
-## Becoming a member of a ATARC-Example
+## Becoming a member of the ATARC-Example Github Organization
 
 ## Using Jekyll Headers
+Jekyll using YAML Front Matter to help render each page. It is required by jekyll that every post begins with
+
+{% highlight markdown %}
+---
+layout: page
+title: my title
+---
+{% endhighlight %}
 
 ## Collaboration vs Contribution
 This doesn't make sense?
