@@ -10,12 +10,13 @@ Currently, an administrator of ATARC-Example must manually invite users in order
 
 ## Using Jekyll Headers
 Jekyll using YAML Front Matter to help render each page. It is required by jekyll that every post begins with:
-{% highlight markdown %}
+
+```
 ---
 layout: page
 title: my title
 ---
-{% endhighlight %}
+```
 
 This snippet indicates the new page you are creating uses the 'page' template, and has the title 'my title'.
 New templates can be created for pages that serve different purposes, but for right now just use the 'page' template.
