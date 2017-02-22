@@ -23,14 +23,3 @@ layout: default
   </ul>
 </section>
 {% endif %}
-
-<div id="home">
-  <h2>Pages</h2>
-  <ul class="pages">
-    {% for page in site.pages %}
-      <li>
-        <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
