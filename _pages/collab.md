@@ -18,5 +18,5 @@ Before being able to add a new page to an ATARC working group, please complete t
 This doesn't make sense?
 
 ## Ready to get started?
-Make a new page! <p><a href="https://github.com/ATARC-Example/ATARC-demo/new/master/_pages">New Page</a></p>
+Make a new page! <a href="https://github.com/ATARC-Example/ATARC-demo/new/master/_pages">New Page</a>
 
